@@ -5,7 +5,9 @@ nodejs module that helps to hold a string in console alwais in the end of output
 npm i console-holder
 
 ## Usage
-const l = require('console-holder'); // put your usual output here
+const l = require('console-holder'); 
+
+l('usual_output'); // put your usual output here
 
 l.hold('sting_you_want_to_hold');
 
