@@ -1,0 +1,22 @@
+{
+  "name": "console-holder",
+  "version": "0.0.1",
+  "description": "nodejs module that helps to hold a string in console alwais in the end of output",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "string",
+    "holder"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theyuri117/console-holder.git"
+  },
+  "author": "Yuri Strazhnov",
+  "license": "ISC",
+  "dependencies": {
+    "ansi-escapes": "^3.1.0"
+  }
+}
