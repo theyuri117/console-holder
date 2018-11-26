@@ -1,6 +1,6 @@
 {
   "name": "console-holder",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "nodejs module that helps to hold a string in console alwais in the end of output",
   "main": "index.js",
   "scripts": {
